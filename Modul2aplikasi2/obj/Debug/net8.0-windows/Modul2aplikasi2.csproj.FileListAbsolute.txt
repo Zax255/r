@@ -1,0 +1,16 @@
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\bin\Debug\net8.0-windows\Modul2aplikasi2.exe
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\bin\Debug\net8.0-windows\Modul2aplikasi2.deps.json
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\bin\Debug\net8.0-windows\Modul2aplikasi2.runtimeconfig.json
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\bin\Debug\net8.0-windows\Modul2aplikasi2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\bin\Debug\net8.0-windows\Modul2aplikasi2.pdb
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.Form1.resources
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.csproj.GenerateResource.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.AssemblyInfoInputs.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.AssemblyInfo.cs
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.csproj.CoreCompileInputs.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\refint\Modul2aplikasi2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.pdb
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\Modul2aplikasi2.genruntimeconfig.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\Modul2aplikasi2\obj\Debug\net8.0-windows\ref\Modul2aplikasi2.dll
