@@ -1,0 +1,16 @@
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\bin\Debug\net8.0-windows\AsesmentModul2.exe
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\bin\Debug\net8.0-windows\AsesmentModul2.deps.json
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\bin\Debug\net8.0-windows\AsesmentModul2.runtimeconfig.json
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\bin\Debug\net8.0-windows\AsesmentModul2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\bin\Debug\net8.0-windows\AsesmentModul2.pdb
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.Form1.resources
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.csproj.GenerateResource.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.AssemblyInfoInputs.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.AssemblyInfo.cs
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.csproj.CoreCompileInputs.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\refint\AsesmentModul2.dll
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.pdb
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\AsesmentModul2.genruntimeconfig.cache
+D:\SMK Telkom\XI PPLG 5\Mk 2 A\AsesmentModul2\obj\Debug\net8.0-windows\ref\AsesmentModul2.dll
